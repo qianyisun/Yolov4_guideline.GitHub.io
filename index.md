@@ -37,6 +37,22 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 You could see the whole process by [Video Link](https://guides.github.com/features/mastering-markdown/). 这边需要改下Link.<br>
 ![Image](image/dog.jpg)<br>
 
+### 2.Basic tools or cloud introduction
+#### 2.1 Github introduction
+##### 2.1.1 Github Basic Operation
+
+
+#### 2.2 Google drive and Google colab introduction
+
+
+### 3.Obtaining data
+
+
+
+
+
+
+
 
 
 
