@@ -32,6 +32,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qianyisun/Yolov4_guideline.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+### 0. Yolov4 model introduction
+
 ### 1.Sample result
 
 You could see the whole process by [Video Link](https://guides.github.com/features/mastering-markdown/). 这边需要改下Link.<br>
@@ -45,7 +47,19 @@ You could see the whole process by [Video Link](https://guides.github.com/featur
 #### 2.2 Google drive and Google colab introduction
 
 
-### 3.Obtaining data
+### 3. Obtaining data
+Consider whether we just introduce the link(https://github.com/theAIGuysCode/OIDv4_ToolKit) and relative video. Or do this by myself.
+
+### 4. Training data to obtain model weight
+4.1 pull my notebook into google drive
+4.2 how to train 这里是直接说打开notebook和看我的视频一步步展示?
+4.3 特别补充下这个要写下文件调节参数的介绍
+
+### 5. Testing data on Yolov4 model
+5.1 下载weights到本地
+5.2 
+
+
 
 
 
