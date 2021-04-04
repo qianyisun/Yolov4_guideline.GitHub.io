@@ -34,6 +34,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### 1.Sample result
 
+You could see the whole process by [Video Link](https://guides.github.com/features/mastering-markdown/). 这边需要改下Link.
+[Image](image/dog.jpg)
+
+
+
 
 ### Support or Contact
 
