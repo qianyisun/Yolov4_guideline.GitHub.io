@@ -41,6 +41,8 @@ You could see the whole process by [Video Link](https://guides.github.com/featur
 
 ### 2.Basic tools or cloud introduction
 #### 2.1 Github introduction
+In this guideline, we are going to use GitHub which is a provider of Internet hosting for software development and version control using Git. You could
+see its details by clicking the [Link](https://en.wikipedia.org/wiki/GitHub)
 ##### 2.1.1 Github Basic Operation
 
 
