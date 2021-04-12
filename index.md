@@ -44,7 +44,19 @@ You could see the whole process by [Video Link](https://guides.github.com/featur
 In this guideline, we are going to use GitHub which is a provider of Internet hosting for software development and version control using Git. You could
 see its details by clicking the [Link](https://en.wikipedia.org/wiki/GitHub)
 ##### 2.1.1 Github Basic Operation
+看一下我接下来要用的。然后Github介绍下。
+*git add
+Puts current working files into the stage (aka index or cache)
+*git clone
+Clone an existing repository into a new directory. 
+*git commit
+Commits staged changes to a local branch
+*git pull
+Fetches remote changes on the current branch into the local clone, and merges them into the current working files.
+*git push
+Uploads changes from all local branches to the respective remote repositories.
 
+In order to 
 
 #### 2.2 Google drive and Google colab introduction
 
