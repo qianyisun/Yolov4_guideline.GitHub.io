@@ -56,7 +56,7 @@ Fetches remote changes on the current branch into the local clone, and merges th
 * git push<br>
 Uploads changes from all local branches to the respective remote repositories.<br>
 
-In order to 
+Even though we are not going to utilize other GitHub basic operation, you could learn more operations by the [Link](https://confluence.lsstcorp.org/display/LDMDG/Basic+Git+Operations)<br>
 
 #### 2.2 Google drive and Google colab introduction
 
