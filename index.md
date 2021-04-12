@@ -67,6 +67,8 @@ Here the website would provide the [video](https://www.youtube.com/watch?v=xoo4m
 
 
 ### 3. Obtaining data
+If we want to train Yolov4 model to do object detection, the first thing is to obtain trained dataset. Because if we want to train any single object on model, we might need hundreds of availabe format's images. We could download the images from Google Open Images dataset V6 including about 9M images which have object bounding boxes, object segmentation masks, visual connections, and so on. In order to download these images from Google Open Images and convert them into available format image for model training, there is a [video](https://www.youtube.com/watch?v=_4A9inxGqRM) that could help us obtain available data step by step. You might need to use the [GitHub reportory](https://github.com/theAIGuysCode/OIDv4_ToolKit) if you are planning to do every step within that video.
+
 ??Consider whether we just introduce the link(https://github.com/theAIGuysCode/OIDv4_ToolKit) and relative video. Or do this by myself.<br>
 
 ### 4. Training data to obtain model weight
