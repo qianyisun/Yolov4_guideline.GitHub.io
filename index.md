@@ -41,7 +41,7 @@ You could see the whole process by [Video Link](https://guides.github.com/featur
 
 ### 2.Basic tools or cloud introduction
 #### 2.1 Github introduction
-In this guideline, we are going to use GitHub which is a provider of Internet hosting for software development and version control using Git. You could
+In this guideline, we are going to use GitHub which is a tool to help Internet hosting for software development and version control using Git. You could
 see its details by clicking the [Link](https://en.wikipedia.org/wiki/GitHub)
 ##### 2.1.1 Github Basic Operation
 看一下我接下来要用的。然后Github介绍下。
@@ -59,6 +59,11 @@ Uploads changes from all local branches to the respective remote repositories.<b
 Even though we are not going to utilize other GitHub basic operation, you could learn more operations by the [Link](https://confluence.lsstcorp.org/display/LDMDG/Basic+Git+Operations)<br>
 
 #### 2.2 Google drive and Google colab introduction
+[Google drive](https://en.wikipedia.org/wiki/Google_Drive) is a great cloud file storage. Here we need to create google colab on Google drive to prepare for subsequent model establishment and object detections using Yolov4 model,etc.<br>
+
+Google colab is an interactive environment which could allow you write and execute code.<br>
+
+Here the website would provide the [video](https://www.youtube.com/watch?v=xoo4mTujM1U) to introduce how we could create a new google colab on Google drive.<br>
 
 
 ### 3. Obtaining data
