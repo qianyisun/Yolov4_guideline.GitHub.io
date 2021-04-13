@@ -71,13 +71,13 @@ If we want to train Yolov4 model to do object detection, the first thing is to o
 
 
 ### 4. Training data to obtain model weight
-Before you do this step, you should download all file within the [link](https://drive.google.com/drive/folders/1i4j39fyD5GPjxqU-fFCVULl1qNbcuFdw?usp=sharing). After you download all files, you could open google drive and upload YOLOv4_Training_code.ipynb file into google drive. Then you are going to upload dataset and configuration files into relative address paths. Finally, you would obtain model weight after training dataset on darknet framework.
+Before you do this step, you should download all file within the [link](https://drive.google.com/drive/folders/1i4j39fyD5GPjxqU-fFCVULl1qNbcuFdw?usp=sharing). After you download all files, you could open google drive and upload YOLOv4_Training_code.ipynb file into google drive. Then you are going to upload dataset and configuration files into relative address paths. Finally, you would obtain model weight after training dataset on darknet framework.<br>
 
-Configration file introduction:
+Term definitions:<br>
+Model weight: Model weights are all the parameters of the model which are in turn all the parameters used in the layers of the model. <br>
+Darknet: Darknet is an open source neural network framework written in CUDA and C. It is fast to install and supports CPU and GPU computations.<br>
 
-Term definitions:
-Model weight: Model weights are all the parameters of the model which are in turn all the parameters used in the layers of the model. 
-Darknet: Darknet is an open source neural network framework written in CUDA and C. It is fast to install and supports CPU and GPU computations.
+In order to repeat what I did in training data to obtain model weight, you could see the [video]()补充下Link.<br>
 
 
 4.1 pull my notebook into google drive<br>
@@ -85,6 +85,7 @@ Darknet: Darknet is an open source neural network framework written in CUDA and 
 4.3 Specially add this to write down the introduction of file adjustment parameters<br>
 
 ### 5. Testing data on Yolov4 model
+
 5.1 Download weights to local computer<br>
 5.2 
 
