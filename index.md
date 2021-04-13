@@ -86,6 +86,8 @@ In order to repeat what I did in training data to obtain model weight, you could
 
 ### 5. Testing data on Yolov4 model
 
+If you could not successfully train your own model weight, you could use my yolov4-obj_last_1800.weights file which could be used to detect humans and dogs.
+
 5.1 Download weights to local computer<br>
 5.2 
 
