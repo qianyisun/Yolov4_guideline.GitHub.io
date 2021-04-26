@@ -41,7 +41,7 @@ If we want to train Yolov4 model to do object detection, the first thing is to o
 ### 3. Training data to obtain model weight
 Before you do this step, you should download all file within the [link](https://drive.google.com/drive/folders/1i4j39fyD5GPjxqU-fFCVULl1qNbcuFdw?usp=sharing). After you download all files, you could open google drive and upload YOLOv4_Training_code.ipynb file into google drive. Then you are going to upload dataset and configuration files into relative address paths. Finally, you would obtain model weight after training dataset on darknet framework.<br>
 
-Term definitions:<br>
+#### Term definitions:<br>
 Model weight: Model weights are all the parameters of the model which are in turn all the parameters used in the layers of the model. <br>
 Darknet: Darknet is an open source neural network framework written in CUDA and C. It is fast to install and supports CPU and GPU computations.<br>
 
