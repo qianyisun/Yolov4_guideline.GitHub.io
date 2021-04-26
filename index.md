@@ -70,8 +70,8 @@ Video reference below:<br>
 [Real-time YOLOv4 Object Detection on Webcam in Google Colab](https://www.youtube.com/watch?v=ebAykr9YZ30)<br>
 
 GitHub code Reference below:<br>
-https://github.com/theAIGuysCode/OIDv4_ToolKit
-https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial
+https://github.com/theAIGuysCode/OIDv4_ToolKit<br>
+https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial<br>
 
 
 
