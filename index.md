@@ -58,7 +58,7 @@ You should upload yolov4_object_detection_webcam_images.ipynb file into google d
 
 ### Conclusion
 
-
+Now I believe you have achieved the goal that you can do object detection on your own webcam. I hope my guideline would inspire your interest in machine learning or computer vision. Thank you for reading my website.
 
 
 
