@@ -7,7 +7,7 @@ YOLO is an effective real-time object recognition algorithm.It does not need to 
 
 ![Image](image/sample_dog.jpeg)
 
-### 1.Basic tools and google cloud introduction
+### 1. Basic tools and google cloud introduction
 
 #### 1.1 Github introduction
 In this guideline, we are going to use GitHub which is a tool to help Internet hosting for software development and version control using Git. You could
@@ -57,13 +57,13 @@ If you could not successfully train your own model weight, you could use the yol
 You should upload yolov4_object_detection_webcam_images.ipynb file into google drive and open it. Then you could do YOLOv4 object detection on webcam by watching the [video](https://www.youtube.com/watch?v=axQLqrzIR8M).<br>
 
 
-### Conclusion
+### 5. Conclusion
 
 Now you have achieved the goal that you can do object detection on your own webcam. Hope the guideline would inspire your interest in machine learning or computer vision. Thank you!
 
 
 
-### Reference
+###  Reference
 
 #### Video reference below:<br>
 [Train YOLOv3 Custom Object Detector with Darknet](https://www.youtube.com/watch?v=zJDUhGL26iU)<br>
