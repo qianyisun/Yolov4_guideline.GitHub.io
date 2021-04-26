@@ -2,12 +2,13 @@
 
 ### 0. Yolov4 model introduction
 
+[Sample](image/dog.jpg)
 
 ### 1.Basic tools or cloud introduction
 #### 1.1 Github introduction
 In this guideline, we are going to use GitHub which is a tool to help Internet hosting for software development and version control using Git. You could
 see its details by clicking the [Link](https://en.wikipedia.org/wiki/GitHub)
-##### 1.1.1 Github Basic Operation
+#### 1.2 Github Basic Operation
 
 * git add<br>
 Puts current working files into the stage.<br>
