@@ -65,6 +65,15 @@ You should upload yolov4_object_detection_webcam_images.ipynb file into google d
 ### Reference
 
 Video reference below:<br>
-[Train YOLOv3 Custom Object Detector with Darknet](https://www.youtube.com/watch?v=zJDUhGL26iU)
+[Train YOLOv3 Custom Object Detector with Darknet](https://www.youtube.com/watch?v=zJDUhGL26iU)<br>
+[YOLOv4 in the CLOUD: Build and Train Custom Object Detector ](https://www.youtube.com/watch?v=mmj3nxGT2YQ&t=1351s)<br>
+[Real-time YOLOv4 Object Detection on Webcam in Google Colab](https://www.youtube.com/watch?v=ebAykr9YZ30)<br>
+
+GitHub code Reference below:<br>
+
+
+
+
+
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
