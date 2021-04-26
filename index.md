@@ -45,7 +45,7 @@ Term definitions:<br>
 Model weight: Model weights are all the parameters of the model which are in turn all the parameters used in the layers of the model. <br>
 Darknet: Darknet is an open source neural network framework written in CUDA and C. It is fast to install and supports CPU and GPU computations.<br>
 
-In order to repeat what I did in training data to obtain model weight, you could see the [video](https://youtu.be/jEx9t8DKbvY)<br>
+In order to repeat what I did in training data to obtain model weight, you could see the [video](https://youtu.be/jEx9t8DKbvY).<br>
 
 
 
@@ -53,7 +53,7 @@ In order to repeat what I did in training data to obtain model weight, you could
 
 If you could not successfully train your own model weight, you could use my yolov4-obj_last_1800.weights file which could be used to detect humans and dogs.<br>
 
-You should upload yolov4_object_detection_webcam_images.ipynb file into google drive and open it. Then you could repeat what I did in YOLOv4 object detection on webcam by watching the [video](https://www.youtube.com/watch?v=axQLqrzIR8M)<br>
+You should upload yolov4_object_detection_webcam_images.ipynb file into google drive and open it. Then you could repeat what I did in YOLOv4 object detection on webcam by watching the [video](https://www.youtube.com/watch?v=axQLqrzIR8M).<br>
 
 
 
@@ -62,13 +62,9 @@ You should upload yolov4_object_detection_webcam_images.ipynb file into google d
 
 
 
+### Reference
 
-
-
-
-
-
-
-### Support or Contact
+Video reference below:<br>
+[Train YOLOv3 Custom Object Detector with Darknet](https://www.youtube.com/watch?v=zJDUhGL26iU)
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
