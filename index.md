@@ -2,7 +2,7 @@
 
 ### 0. Yolov4 model introduction
 
-[Sample](image/dog.jpg)
+[Image](image/sample_dog.jpeg)
 
 ### 1.Basic tools or cloud introduction
 #### 1.1 Github introduction
