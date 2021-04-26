@@ -2,17 +2,18 @@
 
 ### 0. Yolov4 algorithm introduction
 
-YOLO is an effective real-time object recognition algorithm. The YOLO algorithm is a regression-based algorithm. It does not need to select interesting parts of the image, but predicts the class and bounding box of the entire image in one run of the algorithm. YOLOv4 algorithm is improved YOLO algorithm. We could see the sample result below the picture.
+YOLO is an effective real-time object recognition algorithm.It does not need to select interesting parts of the image, but predicts the class and bounding box of the entire image in one run of the algorithm. YOLOv4 algorithm is improved YOLO algorithm. We could see the sample result below the picture.
 
 
 ![Image](image/sample_dog.jpeg)
 
-### 1.Basic tools or cloud introduction
+### 1.Basic tools and google cloud introduction
+
 #### 1.1 Github introduction
 In this guideline, we are going to use GitHub which is a tool to help Internet hosting for software development and version control using Git. You could
 see its details by clicking the [Link](https://en.wikipedia.org/wiki/GitHub)
-#### 1.2 Github Basic Operation
 
+#### 1.2 Github Basic Operation
 * git add<br>
 Puts current working files into the stage.<br>
 * git clone<br>
@@ -24,18 +25,18 @@ Fetches remote changes on the current branch into the local clone, and merges th
 * git push<br>
 Uploads changes from all local branches to the respective remote repositories.<br>
 
-Even though we are not going to utilize other GitHub basic operation, you could learn more operations by the [Link](https://confluence.lsstcorp.org/display/LDMDG/Basic+Git+Operations)<br>
+Even though we may not utilize other GitHub basic operation, you still could learn more Git operations by the [Link](https://confluence.lsstcorp.org/display/LDMDG/Basic+Git+Operations)<br>
 
 #### 1.2 Google drive and Google colab introduction
 [Google drive](https://en.wikipedia.org/wiki/Google_Drive) is a great cloud file storage. Here we need to create google colab on Google drive to prepare for subsequent model establishment and object detections using Yolov4 model,etc.<br>
 
 Google colab is an interactive environment which could allow you write and execute code.<br>
 
-Here the website would provide the [video](https://www.youtube.com/watch?v=xoo4mTujM1U) to introduce how we could create a new google colab on Google drive.<br>
+Here we provide the [video](https://www.youtube.com/watch?v=xoo4mTujM1U) to introduce how we could create a new google colab on Google drive.<br>
 
 
 ### 2. Obtaining data
-If we want to train Yolov4 model to do object detection, the first thing is to obtain trained dataset. Because if we want to train any single object on model, we might need hundreds of availabe format's images. We could download the images from Google Open Images dataset V6 including about 9M images which have object bounding boxes, object segmentation masks, visual connections, and so on. In order to download these images from Google Open Images and convert them into available format image for model training, there is a [video](https://www.youtube.com/watch?v=_4A9inxGqRM) that could help us obtain available data step by step. You might need to use the [GitHub reportory](https://github.com/theAIGuysCode/OIDv4_ToolKit) if you are planning to do every step within that video.
+If we want to train Yolov4 model to do object detection, the first thing is to obtain trained dataset. Because if we want to train any single object on model, we might need hundreds of availabe images with correct format. We could download the images from Google Open Images dataset V6 including about 9M images which have object bounding boxes, object segmentation masks, visual connections, and so on. In order to download these images from Google Open Images and convert them into available format image for model training, there is a [video](https://www.youtube.com/watch?v=_4A9inxGqRM) that could help us obtain available data step by step. You might need to use the [GitHub reportory](https://github.com/theAIGuysCode/OIDv4_ToolKit) if you are planning to do every step within that video.
 
 
 ### 3. Training data to obtain model weight
@@ -45,20 +46,20 @@ Before you do this step, you should download all file within the [link](https://
 Model weight: Model weights are all the parameters of the model which are in turn all the parameters used in the layers of the model. <br>
 Darknet: Darknet is an open source neural network framework written in CUDA and C. It is fast to install and supports CPU and GPU computations.<br>
 
-In order to repeat what I did in training data to obtain model weight, you could see the [video](https://youtu.be/jEx9t8DKbvY).<br>
+In order to training data to obtain model weight, you could see the [video](https://youtu.be/jEx9t8DKbvY).<br>
 
 
 
 ### 4. Testing data on Yolov4 model
 
-If you could not successfully train your own model weight, you could use my yolov4-obj_last_1800.weights file which could be used to detect humans and dogs.<br>
+If you could not successfully train your own model weight, you could use the yolov4-obj_last_1800.weights file which could be used to detect humans and dogs.<br>
 
-You should upload yolov4_object_detection_webcam_images.ipynb file into google drive and open it. Then you could repeat what I did in YOLOv4 object detection on webcam by watching the [video](https://www.youtube.com/watch?v=axQLqrzIR8M).<br>
+You should upload yolov4_object_detection_webcam_images.ipynb file into google drive and open it. Then you could do YOLOv4 object detection on webcam by watching the [video](https://www.youtube.com/watch?v=axQLqrzIR8M).<br>
 
 
 ### Conclusion
 
-Now I believe you have achieved the goal that you can do object detection on your own webcam. I hope my guideline would inspire your interest in machine learning or computer vision. Thank you for reading my website.
+Now you have achieved the goal that you can do object detection on your own webcam. Hope the guideline would inspire your interest in machine learning or computer vision. Thank you!
 
 
 
