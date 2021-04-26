@@ -52,7 +52,7 @@ In order to training data to obtain model weight, you could see the [video](http
 
 ### 4. Testing data on Yolov4 model
 
-If you could not successfully train your own model weight, you could use the yolov4-obj_last_1800.weights file which could be used to detect humans and dogs.<br>
+If you could not successfully train your own model weight, you could use the yolov4_obj_last_1800.weights file which could be used to detect humans and dogs.<br>
 
 You should upload yolov4_object_detection_webcam_images.ipynb file into google drive and open it. Then you could do YOLOv4 object detection on webcam by watching the [video](https://www.youtube.com/watch?v=axQLqrzIR8M).<br>
 
