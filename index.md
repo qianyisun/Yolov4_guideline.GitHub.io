@@ -1,6 +1,9 @@
 ## YOLOv4 Object Detection on Webcam
 
-### 0. Yolov4 model introduction
+### 0. Yolov4 algorithm introduction
+
+YOLO is an effective real-time object recognition algorithm. The YOLO algorithm is a regression-based algorithm. It does not need to select interesting parts of the image, but predicts the class and bounding box of the entire image in one run of the algorithm. YOLOv4 algorithm is improved YOLO algorithm. We could see the sample result below the picture.
+
 
 ![Image](image/sample_dog.jpeg)
 
