@@ -34,7 +34,7 @@ Google colab is an interactive environment which could allow you write and execu
 
 Here we provide the [video](https://www.youtube.com/watch?v=xoo4mTujM1U) to introduce how we could create a new google colab on Google drive.<br>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=xoo4mTujM1U)
+[![Watch the video](image/sample_dog.jpeg)](https://www.youtube.com/watch?v=xoo4mTujM1U)
 
 ### 2. Obtaining data
 If we want to train Yolov4 model to do object detection, the first thing is to obtain trained dataset. Because if we want to train any single object on model, we might need hundreds of availabe images with correct format. We could download the images from Google Open Images dataset V6 including about 9M images which have object bounding boxes, object segmentation masks, visual connections, and so on. In order to download these images from Google Open Images and convert them into available format image for model training, there is a [video](https://www.youtube.com/watch?v=_4A9inxGqRM) that could help us obtain available data step by step. You might need to use the [GitHub reportory](https://github.com/theAIGuysCode/OIDv4_ToolKit) if you are planning to do every step within that video.
