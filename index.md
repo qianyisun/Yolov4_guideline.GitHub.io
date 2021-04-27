@@ -38,7 +38,7 @@ Here we provide the video below to introduce how we could create a new google co
 
 ### 2. Obtaining data
 If we want to train Yolov4 model to do object detection, the first thing is to obtain trained dataset. Because if we want to train any single object on model, we might need hundreds of availabe images with correct format. We could download the images from Google Open Images dataset V6 including about 9M images which have object bounding boxes, object segmentation masks, visual connections, and so on. In order to download these images from Google Open Images and convert them into available format image for model training, there is a video that could help us obtain available data step by step. You might need to use the [GitHub reportory](https://github.com/theAIGuysCode/OIDv4_ToolKit) if you are planning to do every step within that video below.
-[![Watch the video](image/sample_dog.jpeg)](https://www.youtube.com/watch?v=_4A9inxGqRM)
+[![Watch the video](image/custom Dataset.png)](https://www.youtube.com/watch?v=_4A9inxGqRM)
 
 ### 3. Training data to obtain model weight
 Before you do this step, you should download all file within the [link](https://drive.google.com/drive/folders/1i4j39fyD5GPjxqU-fFCVULl1qNbcuFdw?usp=sharing). After you download all files, you could open google drive and upload YOLOv4_Training_code.ipynb file into google drive. Then you are going to upload dataset and configuration files into relative address paths. Finally, you would obtain model weight after training dataset on darknet framework.<br>
@@ -48,7 +48,7 @@ Model weight: Model weights are all the parameters of the model which are in tur
 Darknet: Darknet is an open source neural network framework written in CUDA and C. It is fast to install and supports CPU and GPU computations.<br>
 
 In order to training data to obtain model weight, you could see the video below.<br>
-[![Watch the video](image/sample_dog.jpeg)](https://youtu.be/jEx9t8DKbvY)
+[![Watch the video](image/train_dataset.png)](https://youtu.be/jEx9t8DKbvY)
 
 
 ### 4. Testing data on Yolov4 model
@@ -56,7 +56,7 @@ In order to training data to obtain model weight, you could see the video below.
 If you could not successfully train your own model weight, you could use the yolov4_obj_last_1800.weights file which could be used to detect humans and dogs.<br>
 
 You should upload yolov4_object_detection_webcam_images.ipynb file into google drive and open it. Then you could do YOLOv4 object detection on webcam by watching the video.<br>
-[![Watch the video](image/sample_dog.jpeg)](https://www.youtube.com/watch?v=axQLqrzIR8M)
+[![Watch the video](image/test_dataset.png)](https://www.youtube.com/watch?v=axQLqrzIR8M)
 
 ### 5. Conclusion
 
