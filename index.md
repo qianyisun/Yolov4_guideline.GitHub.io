@@ -32,7 +32,7 @@ Even though we may not utilize other GitHub basic operation, you still could lea
 
 Google colab is an interactive environment which could allow you write and execute code.<br>
 
-Here we provide the [video](https://www.youtube.com/watch?v=xoo4mTujM1U) to introduce how we could create a new google colab on Google drive.<br>
+Here we provide the ![video](https://www.youtube.com/watch?v=xoo4mTujM1U) to introduce how we could create a new google colab on Google drive.<br>
 
 
 ### 2. Obtaining data
