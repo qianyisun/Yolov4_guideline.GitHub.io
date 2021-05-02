@@ -2,10 +2,9 @@
 
 ### 0. Introduction
 
-YOLO is an effective real-time object recognition algorithm.It does not need to select interesting parts of the image, but predicts the class and bounding box of the entire image in one run of the algorithm. YOLOv4 algorithm is improved YOLO algorithm. We could see the sample result below the picture.
-
 The reason why this project is meaningful is it could make a website based on GitHub and GitHub.io by viewers. The website could be regarded as a guideline to let the high school students to learn how train a webcam-based detection method using their own data. Also, these students could learn how to do data annotation, training, and deployment step by step from guidelines on the website.
 
+YOLO is an effective real-time object recognition algorithm.It does not need to select interesting parts of the image, but predicts the class and bounding box of the entire image in one run of the algorithm. YOLOv4 algorithm is improved YOLO algorithm. We could see the sample result below the picture.
 
 ![Image](image/sample_dog.jpeg)
 
